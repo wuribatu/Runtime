@@ -6,3 +6,4 @@
 * 自动接档、归档， demo day5.
 * 字典转换为模型，demo day6.
 * 动态消息解析，不实现方法，在第一步resolve进行拦截，demo day7.
+* 不声明方法 动态更换调用对象, demo day8
